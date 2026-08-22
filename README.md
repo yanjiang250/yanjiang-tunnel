@@ -1,2 +1,2 @@
 # 此脚本部署后不会显示任何节点信息，请自行手搓！
-推荐Cloudflare官方ProxyIP：162.158.1.6
+推荐使用Cloudflare官方ProxyIP：162.158.1.6
